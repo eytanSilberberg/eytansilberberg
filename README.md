@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!, I am Eytan Silberberg</h1>
 <h3 align="center">A passionate Fullstack/ Frontend developer from Israel</h3>
 
-- 🔭 I’m currently working on [Matis analsis](https://github.com/eytanSilberberg/matis-leadership-quiz)
+- 🔭 I’m currently working on [Matis leadership quiz](https://github.com/eytanSilberberg/matis-leadership-quiz)
 
 - 🌱 I’m currently learning **Typescript,AWS,Firebase**
 
