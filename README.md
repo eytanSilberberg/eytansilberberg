@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!, I am Eytan Silberberg</h1>
-<h3 align="center">A passionate frontend developer from Israel</h3>
+<h3 align="center">A passionate Fullstack/Frontend developer from Israel</h3>
 
 - 🔭 I’m currently working on [Matis analsis](https://github.com/eytanSilberberg/matis-leadership-quiz)
 
